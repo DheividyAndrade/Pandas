@@ -1,0 +1,19 @@
+# Bibliotecas principais
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualização
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Manipulação de dados adicionais
+openpyxl>=3.0.0  # Para ler/escrever arquivos Excel
+xlrd>=2.0.0      # Para ler arquivos Excel antigos
+
+# Úteis para análise de dados
+scipy>=1.7.0
+scikit-learn>=0.24.0
