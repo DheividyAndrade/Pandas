@@ -1,0 +1,301 @@
+id_cliente;nome;endereco;email;data_nascimento;sexo;nivel_fidelidade
+1;Gabrielly da Costa;"Avenida de Moraes; 371
+Vila Jardim Alvorada
+90991757 Correia / MG";dda-mota@example.com;1992-06-19;Masculino;Platina
+2;Luiza Silva;"Travessa de Pinto; 4
+Vila Maloca
+64625168 Lima dos Dourados / PB";biancacardoso@example.net;1956-05-05;Feminino;Platina
+3;Dra. Isabella Lopes;"Vereda Paulo Moraes; 71
+Vitoria Da Conquista
+09869115 Caldeira / MG";vieirafrancisco@example.org;2005-04-29;Masculino;Bronze
+4;Leandro Sales;"Quadra Arthur Melo; 278
+Frei Leopoldo
+26988630 da Mota de Almeida / AL";xfernandes@example.org;1967-11-15;Masculino;Bronze
+5;Thales Rocha;"Recanto de Nunes; 3
+Estrela
+60187174 da Cunha / MA";theo73@example.com;1996-02-09;Masculino;Ouro
+6;João Pedro Silva;"Fazenda Viana; 45
+Braúnas
+20569557 Gonçalves de Pereira / RR";maria-ceciliasales@example.com;1970-06-09;Feminino;Bronze
+7;Joana da Mata;"Loteamento de Peixoto; 363
+Vila São Gabriel Jacui
+86367-757 Correia de Caldeira / MG";gabriela48@example.com;1940-07-25;Masculino;Platina
+8;Marcos Vinicius Dias;"Travessa Clara Barros; 77
+Buraco Quente
+53123970 Castro / SC";pedro30@example.org;1972-04-24;Masculino;Platina
+9;Lucca Fernandes;"Vale Enzo Gabriel Santos; 713
+Camponesa 1ª Seção
+65117889 Lima / AM";eduardopinto@example.net;1958-01-17;Masculino;Platina
+10;Maria Cecília Porto;"Colônia Marcelo Pinto; 40
+Comiteco
+13427178 Rezende / TO";diaslucas-gabriel@example.org;1985-12-25;Masculino;Bronze
+11;Lavínia Almeida;"Chácara de Castro; 289
+São Gonçalo
+06047520 Alves do Amparo / AL";cavalcantiyasmin@example.net;2001-11-17;Feminino;Platina
+12;Ana Beatriz Duarte;"Praia Gabriel Freitas; 161
+Graça
+21249-931 da Rocha de Gonçalves / GO";rafael46@example.com;1965-07-18;Feminino;Prata
+13;Davi Lucas Araújo;"Loteamento Aragão; 189
+Satelite
+39543598 Azevedo / MA";estherazevedo@example.org;1950-10-08;Feminino;Prata
+14;Luiz Fernando Melo;"Parque de Monteiro
+Morro Dos Macacos
+86593580 Rocha da Praia / DF";andrecunha@example.org;1933-06-24;Masculino;Prata
+15;Ana Beatriz Silva;"Praça da Conceição; 592
+Minas Caixa
+41410-220 Silveira do Campo / BA";ofreitas@example.org;1960-09-26;Masculino;Platina
+16;Sr. Luiz Fernando Carvalho;"Recanto Duarte; 14
+Virgínia
+18450120 Moreira da Serra / SP";thales95@example.net;1934-02-19;Masculino;Platina
+17;Dr. Pedro Henrique da Rocha;"Campo Breno Caldeira; 94
+Tiradentes
+69289602 Costela Verde / AL";luigi22@example.com;1983-05-02;Masculino;Prata
+18;Clara Novaes;"Rodovia Juan Peixoto; 51
+Vila Formosa
+70910-492 Dias / SP";pda-luz@example.org;1987-01-01;Masculino;Platina
+19;Srta. Camila Ramos;"Chácara Fernando Ribeiro; 6
+Camponesa 2ª Seção
+91898143 Silveira / PA";marcos-viniciusvieira@example.org;1946-11-01;Feminino;Ouro
+20;Ana da Conceição;"Passarela Moraes; 76
+Vila Suzana Primeira Seção
+97693469 da Conceição da Prata / AL";portobrenda@example.com;1942-01-18;Masculino;Bronze
+21;Pedro Lucas Caldeira;"Viaduto de Alves; 53
+Vila Sesc
+91695-930 Dias de Castro / GO";edas-neves@example.org;1947-02-03;Feminino;Bronze
+22;Sofia Moura;"Viela Vitor Hugo Aragão; 93
+Lourdes
+04753979 Campos da Mata / MT";cnovaes@example.net;1946-08-23;Feminino;Ouro
+23;Gustavo Henrique Gonçalves;"Setor Letícia da Conceição; 571
+Alto Dos Pinheiros
+48424-545 Souza / AL";matheusgomes@example.com;1943-09-02;Feminino;Bronze
+24;Ana Júlia da Costa;"Via Melo
+Anchieta
+61959144 Souza / PA";rodrigo96@example.org;1995-05-08;Feminino;Ouro
+25;Ana Luiza Farias;"Lago Benício Souza; 35
+Barreiro
+69587876 da Paz do Galho / MS";xpeixoto@example.org;1940-09-09;Masculino;Platina
+26;Evelyn Lopes;"Jardim de da Paz; 1
+Laranjeiras
+50646543 Fogaça / MG";luna91@example.com;1972-03-21;Masculino;Bronze
+27;Ana Júlia Castro;"Praia Luana Cardoso
+Santa Amelia
+77988-703 Nascimento / GO";luigi51@example.net;1941-09-08;Masculino;Platina
+28;Ana Vitória Lopes;"Chácara de Araújo
+Maria Tereza
+56613-379 das Neves / RN";silveiracalebe@example.org;1983-06-06;Feminino;Prata
+29;Stella da Mata;"Viela Luiza Cavalcanti; 33
+Conjunto Floramar
+49702-849 Lopes / TO";rebecacavalcanti@example.org;1935-03-18;Feminino;Platina
+30;Samuel Martins;"Morro Milena Barbosa
+Carlos Prates
+51705-457 Cunha / SC";elisapinto@example.org;1967-04-24;Masculino;Bronze
+31;Júlia Pires;"Pátio de da Rocha; 44
+Santa Cecilia
+61576-209 Gonçalves / PA";leandro81@example.com;1965-11-10;Feminino;Bronze
+32;Luigi Caldeira;"Largo Campos; 11
+Vila Nova Cachoeirinha 1ª Seção
+62027553 Caldeira / RS";santosdanilo@example.org;1993-05-22;Masculino;Prata
+33;Camila das Neves;"Vale Stella Ribeiro; 63
+Vila Nova Cachoeirinha 1ª Seção
+29773-187 Peixoto de Goiás / DF";moraesvitor@example.com;1943-04-01;Masculino;Platina
+34;Marina Farias;"Jardim Beatriz Rezende; 848
+Buraco Quente
+56092353 Moreira / RN";ncarvalho@example.org;1987-10-06;Feminino;Prata
+35;Dra. Emanuella Barbosa;"Viela Costela
+Conjunto Jardim Filadélfia
+68136-453 Freitas / BA";marinabarbosa@example.com;1942-03-20;Feminino;Platina
+36;Daniel da Rocha;"Vereda Cecília Monteiro; 86
+Maria Virgínia
+26022070 Freitas / GO";larissagomes@example.com;1968-02-02;Feminino;Ouro
+37;Maria Julia Ferreira;"Vila de Caldeira; 16
+Custodinha
+17512-905 Aragão de Monteiro / PR";sofia83@example.net;1972-04-08;Masculino;Bronze
+38;Marina Freitas;"Fazenda Silva
+Vila Das Oliveiras
+07472-273 Rezende / RO";castronicole@example.com;1990-08-29;Masculino;Prata
+39;Stephany Rezende;"Vale Jesus; 13
+Vila Batik
+09363-538 Souza da Prata / PA";maite49@example.org;1966-06-05;Masculino;Platina
+40;Ana Carolina Porto;"Chácara Beatriz da Cunha
+Europa
+30848-799 Pereira / RS";galves@example.net;1964-08-05;Masculino;Ouro
+41;Alexia Moura;"Travessa de Cardoso; 88
+Garças
+35510585 Dias da Praia / AM";nascimentoisis@example.org;1980-02-05;Masculino;Platina
+42;Sr. Emanuel Farias;"Recanto Carvalho; 11
+Santa Rosa
+88369526 Lima / AP";da-cruzana-julia@example.org;2003-05-14;Feminino;Prata
+43;Cecília Gomes;"Núcleo de da Rocha; 153
+Xangri-Lá
+16209946 Nogueira / CE";trezende@example.org;1992-05-08;Feminino;Bronze
+44;Milena Barbosa;"Aeroporto Eduarda Pinto; 4
+Vila Jardim Montanhes
+40972-112 Cardoso / PI";gabrielly51@example.net;1984-11-13;Masculino;Platina
+45;Felipe Azevedo;"Esplanada de Araújo; 18
+Vila Puc
+69566-458 Dias / ES";kda-rocha@example.com;1947-09-26;Masculino;Platina
+46;Cauã Cunha;"Esplanada de Cardoso; 86
+Ipiranga
+05130-612 Correia / PB";martinsjoao-felipe@example.net;1978-03-28;Feminino;Ouro
+47;Thales da Paz;"Núcleo de Rodrigues; 22
+Estrela Do Oriente
+31665-068 Rezende / ES";ana-sophiamendes@example.net;1947-08-18;Feminino;Prata
+48;Manuela Caldeira;"Quadra Brenda Castro
+Vila Califórnia
+19327-807 Cavalcanti / RR";lpinto@example.org;1958-05-29;Masculino;Prata
+49;Gabrielly da Costa;"Quadra Leonardo Cardoso; 19
+Novo Ouro Preto
+03782327 Castro Alegre / GO";emanuelmoura@example.com;1954-09-03;Masculino;Prata
+50;Sofia Lopes;"Largo de Monteiro; 1
+Vila São Gabriel
+77721492 Pinto / DF";xcosta@example.org;1965-08-05;Feminino;Prata
+51;Luiz Fernando Moura;"Fazenda Campos; 897
+Castanheira
+74377-604 Correia das Pedras / RN";ana-julia83@example.com;1987-02-15;Feminino;Ouro
+52;Otávio Rezende;"Esplanada de Lima; 837
+Nova America
+45365-616 Cavalcanti / PI";leonardo50@example.net;1990-04-04;Masculino;Ouro
+53;Murilo Castro;"Fazenda Cardoso; 30
+Cachoeirinha
+38682-235 Duarte do Amparo / SP";leandrofarias@example.org;1998-01-23;Feminino;Platina
+54;Srta. Isabel Cardoso;"Loteamento Ana Porto
+Providencia
+97633504 Freitas / AC";ugoncalves@example.org;1974-10-07;Feminino;Ouro
+55;Ana Clara Pinto;"Parque Dias; 885
+Vila Madre Gertrudes 4ª Seção
+68514-578 Azevedo / SE";bnunes@example.net;1962-03-15;Feminino;Bronze
+56;Davi Lucca Viana;"Largo de Correia; 3
+Salgado Filho
+18685-259 Silva / RJ";thales58@example.org;1960-05-17;Feminino;Ouro
+57;Raquel Araújo;"Feira Luiz Otávio Costela; 758
+São Pedro
+48033-960 Cunha Grande / DF";liviada-cruz@example.net;1979-04-15;Feminino;Prata
+58;Bianca Lopes;"Travessa de Lopes; 6
+Madre Gertrudes
+36374845 Melo de Nascimento / RS";gda-conceicao@example.org;1992-08-03;Masculino;Bronze
+59;Luana Rezende;"Distrito de Pereira; 59
+Vila Nova Cachoeirinha 3ª Seção
+25698-864 Sales / SE";marianeda-conceicao@example.net;1939-05-02;Feminino;Bronze
+60;Olivia Araújo;"Lagoa Kamilly Fernandes; 94
+Pantanal
+76831193 Moraes / SE";yurijesus@example.net;1968-08-08;Feminino;Platina
+61;Cecília Martins;"Favela Souza; 38
+Vila São Dimas
+52622806 das Neves Verde / TO";azevedolevi@example.org;1977-11-06;Masculino;Ouro
+62;Dra. Helena Azevedo;"Área de Jesus; 13
+Unidas
+22233-832 Cunha / AC";isaac34@example.net;1935-05-26;Feminino;Prata
+63;Lavínia Aragão;"Quadra de Gomes; 43
+Dom Cabral
+12917-422 Gonçalves Paulista / MG";maria-claracaldeira@example.org;1946-09-26;Masculino;Platina
+64;Ana Vitória Ferreira;"Pátio Laís Melo; 6
+Céu Azul
+67931229 Melo das Pedras / MS";hcaldeira@example.com;1985-10-27;Feminino;Platina
+65;Noah das Neves;"Colônia Maria Fernanda Cavalcanti
+Ápia
+07231106 Cardoso / PI";bianca53@example.com;1954-10-23;Masculino;Platina
+66;Sarah Sales;"Recanto Silveira
+Pindura Saia
+42744-247 Moura / AC";hda-conceicao@example.net;1955-08-26;Feminino;Prata
+67;Joaquim Rezende;"Lago Enrico Cardoso; 74
+Cônego Pinheiro 1ª Seção
+87874841 Fogaça Paulista / ES";gomesnicole@example.org;1965-03-08;Masculino;Ouro
+68;Isaac Dias;"Vereda de Santos; 49
+Coração Eucarístico
+06890-146 Silveira / AP";hsilveira@example.net;2003-06-03;Feminino;Bronze
+69;Matheus Souza;"Passarela de Almeida
+Vila Nova Paraíso
+12248577 Caldeira da Praia / MA";portothiago@example.org;1985-01-31;Feminino;Ouro
+70;Otávio Costela;"Conjunto Costa; 67
+Graça
+66440653 Jesus do Campo / SC";clarice37@example.com;1933-08-24;Masculino;Ouro
+71;Sr. Murilo Oliveira;"Distrito Ramos
+Grajaú
+27936277 Peixoto / PA";cavalcanticaue@example.org;1991-05-31;Feminino;Platina
+72;Marcela Rezende;"Passarela Gabriela da Paz; 30
+Ademar Maldonado
+35713023 Lima / MS";diascaua@example.net;2003-04-11;Feminino;Bronze
+73;Srta. Amanda da Conceição;"Fazenda de das Neves
+Vila Nova Cachoeirinha 1ª Seção
+78613-253 Araújo de Freitas / SP";vitormoura@example.net;1982-02-16;Masculino;Platina
+74;Theo da Cunha;"Trevo Maria Sophia Carvalho; 900
+Maria Goretti
+61912154 Cardoso / PA";qnascimento@example.com;1983-11-14;Masculino;Bronze
+75;Beatriz Alves;"Travessa Dias
+Jardim Guanabara
+90713865 Rocha / PA";isisnascimento@example.org;1936-01-04;Masculino;Prata
+76;Maria Cecília da Costa;"Rodovia de Duarte; 97
+Betânia
+58236120 Aragão da Mata / PB";eduardarezende@example.com;1944-05-24;Masculino;Bronze
+77;Agatha Jesus;"Morro de da Paz
+Conjunto Serra Verde
+88515578 da Mota de Rocha / MG";enzo-gabriel93@example.net;1949-09-19;Masculino;Platina
+78;Sr. Igor Porto;"Favela Costela; 32
+Conjunto Bonsucesso
+11233521 Oliveira / MA";yasmin41@example.org;1998-03-06;Feminino;Prata
+79;Renan Campos;"Sítio Antônio Santos; 15
+Vila Aeroporto
+50864184 Nogueira / SE";pietra81@example.net;1962-10-22;Feminino;Prata
+80;Gabriela Moreira;"Lagoa Ana Lívia das Neves; 2
+Vila Esplanada
+92295-093 da Mota / TO";costelaana-clara@example.com;1943-03-01;Masculino;Platina
+81;Danilo Mendes;"Praia da Costa; 28
+Nova Cintra
+04151-193 da Mata / AP";da-matanicole@example.com;1989-09-26;Masculino;Bronze
+82;Sra. Milena Martins;"Lagoa Danilo Gomes; 624
+Vila São Francisco
+00846146 Alves Paulista / PA";luiz-miguel82@example.org;1973-03-24;Feminino;Platina
+83;Dra. Alexia Barbosa;"Loteamento Costela; 15
+Morro Dos Macacos
+93882-035 Nascimento Paulista / RS";andrenunes@example.com;1967-08-16;Masculino;Platina
+84;Daniela da Rocha;"Favela de Rezende; 54
+Vila Trinta E Um De Março
+66404-107 Fogaça / CE";anacardoso@example.org;1956-11-09;Feminino;Ouro
+85;Valentina das Neves;"Estrada Nunes
+Palmares
+33656709 Mendes do Amparo / RN";vianamaria-clara@example.com;2005-03-13;Feminino;Bronze
+86;Sra. Stephany Duarte;"Via Heitor da Mota; 38
+Vila Fumec
+54983-837 Teixeira / PI";silveiraisadora@example.org;1989-07-07;Feminino;Bronze
+87;Maria Sophia da Paz;"Lagoa João Gabriel Correia; 34
+Santa Margarida
+16025-295 Nunes / TO";esther31@example.org;1936-09-08;Masculino;Ouro
+88;Antônio Pinto;"Distrito de Duarte; 1
+Delta
+74245-106 da Mota dos Dourados / ES";gustavosilva@example.org;1956-02-27;Feminino;Prata
+89;Igor da Luz;"Aeroporto da Mata; 958
+Nova Suíça
+43288-959 das Neves de Pereira / PR";lunasilveira@example.org;1954-04-30;Masculino;Platina
+90;Heloísa Cunha;"Pátio de Azevedo
+Marmiteiros
+76552-443 Oliveira / MT";camila18@example.net;1942-06-04;Masculino;Prata
+91;Emanuella Moreira;"Morro Ana Lívia Sales; 40
+Vila Mantiqueira
+31633034 Moraes de Dias / RJ";camposdaniela@example.org;1968-01-17;Feminino;Platina
+92;Noah Barros;"Residencial Erick Ferreira
+Outro
+41161712 das Neves da Serra / RS";silveiraesther@example.org;1999-09-05;Masculino;Platina
+93;Igor da Mata;"Residencial Pedro Lucas Nunes; 1
+Urca
+09465103 da Rocha / RJ";nicoleoliveira@example.net;1997-05-20;Masculino;Prata
+94;Cecília Pinto;"Morro Matheus Martins; 10
+Madre Gertrudes
+48465021 da Paz do Sul / RO";teixeiramurilo@example.org;1998-07-22;Feminino;Ouro
+95;João Gabriel Campos;"Sítio Luiz Henrique Nunes; 88
+Fazendinha
+73060-676 Cardoso das Flores / SE";limaraul@example.net;1988-02-23;Feminino;Bronze
+96;Maria Pereira;"Recanto de Silveira
+Fazendinha
+20581635 Carvalho do Sul / MA";henrique85@example.net;2001-09-26;Masculino;Platina
+97;Augusto Jesus;"Núcleo Danilo das Neves; 1
+Santa Efigênia
+79899010 Caldeira de Novaes / PI";helena04@example.org;1975-03-27;Masculino;Prata
+98;Thiago Jesus;"Vale Castro; 175
+Pirineus
+14315-247 Viana da Prata / SP";kamilly67@example.net;1967-01-17;Feminino;Platina
+99;Erick Barbosa;"Lagoa Cardoso; 48
+Floresta
+56186404 Lima do Galho / GO";marianenascimento@example.com;1965-09-10;Feminino;Prata
+100;Fernando Moraes;"Estrada Vinicius Correia; 31
+Silveira
+21703-545 Nogueira / DF";yaraujo@example.net;2002-12-01;Masculino;Ouro
